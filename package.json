@@ -22,5 +22,15 @@
     "gulp-util": "^2.2.17",
     "dummy-json": "^0.0.2"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "readme": "gulp-dummy-json\n===============\n\nCreates dummy test json data from dummy-json templates (with dependencies)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/jsbuzz/gulp-dummy-json/issues"
+  },
+  "homepage": "https://github.com/jsbuzz/gulp-dummy-json",
+  "_id": "gulp-dummy-json@0.0.1",
+  "_shasum": "eb03b76fcc2bb3186dd1beca3355ad253ec0148f",
+  "_resolved": "git+https://git@github.com/jsbuzz/gulp-dummy-json#c6a793dd274d8fb0f7e7b029c7975c0b89348703",
+  "_from": "git+https://git@github.com/jsbuzz/gulp-dummy-json"
 }
